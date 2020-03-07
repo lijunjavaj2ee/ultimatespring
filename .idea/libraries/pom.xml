@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="pom">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/pom.xml" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/pom.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/pom.xml" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/pom.xml" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/pom.xml" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/pom.xml" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/pom.xml" recursive="false" type="SOURCES" />
+  </library>
+</component>
