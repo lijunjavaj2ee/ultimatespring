@@ -9,3 +9,5 @@ public class SingletonStatic {
         return LazyHolder.instace;
     }
 }
+
+
